@@ -52,3 +52,8 @@ Api's: para conseguirmos pegar os pokemon e seus dados
       <span class="pokemon__weight"></span>
     </h1>
 ```
+
+
+# Link para vizualização completa no Site Vercel
+
+* https://vercel.com/luiz-gustavos-projects-abf01cdb/lulululis2502.pokedex
